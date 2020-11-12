@@ -1,8 +1,8 @@
 {
   "name": "react_tic_tac_toe",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://clarity-89.github.io/React_tic_tac_toe/",
+  "private": false,
+  "homepage": "https://feeraw24.github.io/Tictactoe/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "papercss": "^1.8.1",

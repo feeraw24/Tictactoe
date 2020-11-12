@@ -7,10 +7,12 @@ function App() {
   return (
     <>
       <Main>
+        <h1>Tugas Tic Tac Toe</h1>
         <TicTacToe />
       </Main>
       <Footer>
         <FooterInner>
+          Feera Wahyunita 1119101771 <br></br>
           View the code on{" "}
           <a href="https://github.com/Clarity-89/React_tic_tac_toe">Github</a>
         </FooterInner>
